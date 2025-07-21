@@ -1,2 +1,2 @@
-# Bibliotica
+# Biblioteca
 Library management system
